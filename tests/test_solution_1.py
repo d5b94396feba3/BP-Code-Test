@@ -3,7 +3,6 @@ sys.path.insert(1, '../src')
 
 from solution_1 import print_depth
 
-
 class TestSolution_1:
 
             def test_dict_depth_of_3_with_5_items(self, capsys):
