@@ -81,6 +81,3 @@ class TestSolution_3:
                 captured=capsys.readouterr()
                 assert captured.out == "3\n"
                 assert captured.err == ""
-
-                        
-                  
