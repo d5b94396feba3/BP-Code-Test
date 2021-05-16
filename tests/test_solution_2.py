@@ -136,3 +136,7 @@ class TestSolution_2:
                 captured=capsys.readouterr()
                 assert captured.out == ""
                 assert captured.err == ""
+
+                        
+                        
+                        
