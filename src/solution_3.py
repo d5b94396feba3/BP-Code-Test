@@ -33,4 +33,3 @@ def lca(parent, node_1, node_2):
 
         
         
-        
