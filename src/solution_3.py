@@ -30,3 +30,7 @@ def lca(parent, node_1, node_2):
                 return right_node
         else:
                 return left_node
+
+        
+        
+        
