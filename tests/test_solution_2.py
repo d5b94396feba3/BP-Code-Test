@@ -137,8 +137,4 @@ class TestSolution_2:
                 assert captured.out == ""
                 assert captured.err == ""
 
-                        
-               
-            
-        
-            
+
