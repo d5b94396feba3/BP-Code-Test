@@ -16,6 +16,3 @@ Run all tests at once :<br>
 `pytest -v`
 
 
-
-
-
